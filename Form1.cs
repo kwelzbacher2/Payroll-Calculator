@@ -1,4 +1,4 @@
-﻿//Programmer: Katie Welzbacher
+﻿//Programmer: KWelzbacher
 
 using System;
 using System.Collections.Generic;
